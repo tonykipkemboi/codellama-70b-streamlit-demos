@@ -1,6 +1,6 @@
 # Code Llama 70B Instruct Streamlit App Demo
 
-This Streamlit application serves as an interface to the Code Llama 70B Instruct model, providing a user-friendly platform for interacting with the model in a chat-like format. The app is designed to assist users by answering questions related to Python or executing tasks requested of the model.
+This [Streamlit](https://streamlit.io/) application serves as an interface to the Code Llama 70B Instruct model, providing a user-friendly platform for interacting with the model in a chat-like format. The app is designed to assist users by answering questions related to Python or executing tasks requested of the model.
 
 ## Features
 
@@ -30,7 +30,7 @@ To run this application on your local machine, follow these steps:
 
 3. **Set up the API token:**
 
-   The app requires a valid Replicate API token to interact with the Code Llama 70B Instruct model. Add your API token to the .streamlit/secrets.toml file as follows:
+   The app requires a valid [Replicate](https://replicate.com/) API token to interact with the Code Llama 70B Instruct model. Add your API token to the .streamlit/secrets.toml file as follows:
 
    ```toml
    # .streamlit/secrets.toml
